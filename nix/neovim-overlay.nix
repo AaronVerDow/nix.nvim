@@ -45,6 +45,8 @@ with final.pkgs.lib; let
     # git integration plugins
     diffview-nvim # https://github.com/sindrets/diffview.nvim/
     direnv-vim
+    goyo-vim
+    vim-pencil
     neogit # https://github.com/TimUntersberger/neogit/
     gitsigns-nvim # https://github.com/lewis6991/gitsigns.nvim/
     vim-fugitive # https://github.com/tpope/vim-fugitive/
